@@ -45,3 +45,12 @@ img,
 video {
   display: block;
 }
+.menu {
+  display: flex;
+  flex-direction: row;
+  padding: 20px 30px;
+  align-items: flex-start;
+  gap: 20px;
+  border-radius: 32px;
+  background: #fff;
+}
